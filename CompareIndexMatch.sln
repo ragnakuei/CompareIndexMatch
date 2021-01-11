@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareIndexMatch", "CompareIndexMatch\CompareIndexMatch.csproj", "{14903A85-5E58-4205-8AD6-8EED62AAAE8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14903A85-5E58-4205-8AD6-8EED62AAAE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14903A85-5E58-4205-8AD6-8EED62AAAE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14903A85-5E58-4205-8AD6-8EED62AAAE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14903A85-5E58-4205-8AD6-8EED62AAAE8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D3643A-A84C-4FBE-9E6A-DFA95DAA97C8}
+	EndGlobalSection
+EndGlobal
